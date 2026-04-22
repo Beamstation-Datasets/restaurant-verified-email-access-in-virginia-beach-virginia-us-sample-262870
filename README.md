@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Virginia Beach, Virginia, US
 
-> Free BeamStation sample export with 32 rows and masked direct-contact fields.
+> Free BeamStation sample export with 15 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `262870` |
 | Location | Virginia Beach |
 | Category | Restaurants |
-| Full dataset size | 322 records |
-| Free sample size | 32 records (9.94%) |
-| Last export | 2026-04-15T05:09:47.628873+00:00 |
+| Full dataset size | 156 records |
+| Free sample size | 15 records (9.62%) |
+| Last export | 2026-04-22T10:51:03.375506+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-virginia-beach-virginia-us-sample-262870/releases/download/sample-latest/beamstation_262870_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
