@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cf8f997f-19da-422e-969d-44946259d561",
+  "export_job_id": "68253ded-28f8-47ea-9152-accd748e12b3",
   "id_short": 262870,
-  "published_at": "2026-04-18T07:43:59Z",
+  "published_at": "2026-04-22T19:27:46Z",
   "repo_name": "restaurant-verified-email-access-in-virginia-beach-virginia-us-sample-262870",
   "sample_asset_name": "beamstation_262870_restaurants-us-va_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/262870/beamstation_262870_restaurants-us-va_SAMPLE_DIST.csv",
-  "sample_records": 32,
-  "sample_sha256": "4bb68fb703cf681864887e4ab19fa574f2c8ee27e264af9d82c137eaca3cdfb2",
-  "sample_size_bytes": 141660,
-  "total_records": 322
+  "sample_records": 15,
+  "sample_sha256": "b69927284e19b4287bd860b8a15525ea8b3f2e9cfe16b8b7c0a4fd797f00b2a0",
+  "sample_size_bytes": 73479,
+  "total_records": 156
 }
